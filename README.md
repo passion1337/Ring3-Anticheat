@@ -1,7 +1,8 @@
 ## Ring3(usermode) anticheat 
 
 ### Implemented features
-- Client-Server communication via NamedPipe 
+- Client-Server communication via NamedPipe
+- direct syscall detection 
 - Local process modification detection
 - External process modification detection
 - Debugger detection
